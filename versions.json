@@ -1,10 +1,10 @@
 {
   "versions": {
     "1234-test-app": {
-      "current": "2.0.1",
+      "current": "2.0.2",
       "project_id": "1234",
       "app_name": "test-app",
-      "last_updated": "2025-09-18T20:49:20.43294809Z"
+      "last_updated": "2025-09-18T20:49:20.70174709Z"
     },
     "71133967-reynaga-hello-world": {
       "current": "2.1.3",
@@ -13,5 +13,5 @@
       "last_updated": "2025-09-18T20:44:13.025094003Z"
     }
   },
-  "last_updated": "2025-09-18T20:49:20.609386131Z"
+  "last_updated": "2025-09-18T20:49:21.467914257Z"
 }
