@@ -1,11 +1,11 @@
 {
   "versions": {
     "1234-test-app": {
-      "current": "1.0.2",
+      "current": "1.1.0",
       "project_id": "1234",
       "app_name": "test-app",
-      "last_updated": "2025-09-18T20:07:58.990691795Z"
+      "last_updated": "2025-09-18T20:08:03.038926088Z"
     }
   },
-  "last_updated": "2025-09-18T20:07:59.24519742Z"
+  "last_updated": "2025-09-18T20:08:03.180140588Z"
 }
